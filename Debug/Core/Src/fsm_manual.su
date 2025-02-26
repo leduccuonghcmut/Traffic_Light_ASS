@@ -1,0 +1,4 @@
+fsm_manual.c:12:6:fms_MAN_RED_GREEN	32	static
+fsm_manual.c:29:6:fms_MAN_RED_YELLOW	32	static
+fsm_manual.c:45:6:fms_MAN_GREEN_RED	32	static
+fsm_manual.c:63:6:fms_MAN_YELLOW_RED	32	static

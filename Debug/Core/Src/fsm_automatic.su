@@ -1,0 +1,8 @@
+fsm_automatic.c:18:6:setCount	16	static
+fsm_automatic.c:22:6:minusCount	4	static
+fsm_automatic.c:26:5:getCount	16	static
+fsm_automatic.c:32:6:fsm_INIT	16	static
+fsm_automatic.c:48:6:fsm_AUTO_RED_GREEN	24	static
+fsm_automatic.c:92:6:fsm_AUTO_RED_YELLOW	24	static
+fsm_automatic.c:138:6:fsm_AUTO_GREEN_RED	24	static
+fsm_automatic.c:182:6:fsm_AUTO_YELLOW_RED	24	static

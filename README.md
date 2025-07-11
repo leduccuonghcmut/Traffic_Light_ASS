@@ -1,6 +1,6 @@
 # Simple Traffic Light System 
 
-## ℹGeneral Information:
+## General Information:
 - **Major components:** Custom board with **STM32F103RBT6**.
 - **Supporting multiple communication protocols:** I2C, SPI, UART
 - **Components' usage:**

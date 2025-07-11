@@ -1,10 +1,3 @@
-/*
- * scheduler_v1.c
- *
- *  Created on: Nov 12, 2024
- *      Author: My Laptop
- */
-
 #include <scheduler.h>
 
 sTasks SCH_tasks_G[SCH_MAX_TASK];

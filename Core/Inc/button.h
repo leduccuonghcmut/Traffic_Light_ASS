@@ -1,9 +1,3 @@
-/*
- * button.h
- *
- *  Created on: Oct 29, 2024
- *      Author: My Laptop
- */
 #include "main.h"
 #include "global.h"
 #ifndef INC_BUTTON_H_
@@ -20,4 +14,4 @@ int isKeyPressed(int index);
 int isReadfrom (int index);
 
 
-#endif /* INC_BUTTON_H_ */
+#endif 

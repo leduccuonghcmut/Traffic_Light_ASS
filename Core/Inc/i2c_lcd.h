@@ -1,16 +1,5 @@
-/*
- * i2c-lcd.h
- *
- *  Created on: Nov 25, 2024
- *      Author: DELL
- */
-
 #ifndef INC_I2C_LCD_H_
 #define INC_I2C_LCD_H_
-
-/**
-Edit by modify: Ngoc Hang
-**/
 
 #include "stm32f1xx_hal.h"
 #include "stdlib.h"
@@ -30,4 +19,4 @@ void lcd_clear_display (void);	//clear display lcd
 void lcd_goto_XY (int row, int col); //set proper location on screen
 
 char* to_string(int num);
-#endif /* INC_I2C_LCD_H_ */
+#endif 

@@ -1,10 +1,3 @@
-/*
- * traffic_light.c
- *
- *  Created on: Oct 30, 2024
- *      Author: My Laptop
- */
-
 #include <traffic_light.h>
 #include <led7_segment.h>
 // - ways

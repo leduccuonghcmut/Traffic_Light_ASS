@@ -1,10 +1,3 @@
-/*
- * software_interrupt.c
- *
- *  Created on: Oct 29, 2024
- *      Author: My Laptop
- */
-
 #include "software_interrupt.h"
 
 int timer_flag[NUM_TIM];

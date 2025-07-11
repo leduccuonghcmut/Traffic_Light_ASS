@@ -1,10 +1,3 @@
-/*
- * command_read.c
- *
- *  Created on: Dec 10, 2024
- *      Author: My Laptop
- */
-
 #include "command_read.h"
 #include <main.h>
 void command_read_fsm(){

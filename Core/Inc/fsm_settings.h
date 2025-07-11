@@ -1,10 +1,3 @@
-/*
- * fsm_settings.h
- *
- *  Created on: Oct 30, 2024
- *      Author: My Laptop
- */
-
 #ifndef INC_FSM_SETTINGS_H_
 #define INC_FSM_SETTINGS_H_
 
@@ -23,4 +16,4 @@ void fsm_SET_AMBERTIME();
 void fsm_SET_GREENTIME();
 int get_uart(int index);
 
-#endif /* INC_FSM_SETTINGS_H_ */
+#endif 

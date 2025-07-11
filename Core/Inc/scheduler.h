@@ -1,10 +1,3 @@
-/*
- * scheduler.h
- *
- *  Created on: Nov 27, 2024
- *      Author: My Laptop
- */
-
 #ifndef INC_SCHEDULER_H_
 #define INC_SCHEDULER_H_
 
@@ -30,4 +23,4 @@ void SCH_Add_Task(void(*pFunction)(), uint32_t DELAY, uint32_t PERIOD);
 void SCH_Delete_Task(const unsigned char TASK_INDEX);
 void SCH_Delete_Short_Task(void);
 
-#endif /* INC_SCHEDULER_H_ */
+#endif

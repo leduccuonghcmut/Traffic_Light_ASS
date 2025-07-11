@@ -1,12 +1,4 @@
-/*
- * button.c
- *
- *  Created on: Oct 29, 2024
- *      Author: My Laptop
- */
-
 #include "button.h"
-
 
 int KeyReg0[NUM_BUT] = {[0 ... NUM_BUT-1] = NORMAL};
 int KeyReg1[NUM_BUT] = {[0 ... NUM_BUT-1] = NORMAL};
@@ -16,7 +8,6 @@ int KeyReg3[NUM_BUT] = {[0 ... NUM_BUT-1] = NORMAL};
 int button_counter[NUM_BUT];
 int counter[NUM_BUT] = {100,100,100};
 int button_flag[NUM_BUT];
-
 
 void getKeyInput(){
 	for (int i = 0; i < NUM_BUT; i++) {
@@ -50,8 +41,6 @@ int isKeyPressed(int index) {
 	}
 	return -1;
 }
-
-
 
 int isReadfrom (int index) {
 	if (index < NUM_BUT) {

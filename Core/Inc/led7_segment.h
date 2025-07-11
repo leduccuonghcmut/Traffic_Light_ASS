@@ -1,9 +1,3 @@
-/*
- * display7seg.h
- *
- *  Created on: Oct 29, 2024
- *      Author: My Laptop
- */
 #include "main.h"
 #ifndef INC_DISPLAY7SEG_H_
 #define INC_DISPLAY7SEG_H_

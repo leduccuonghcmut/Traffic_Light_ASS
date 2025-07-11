@@ -1,10 +1,3 @@
-/*
- * uart_com.c
- *
- *  Created on: Dec 11, 2024
- *      Author: My Laptop
- */
-
 #include <uart_com.h>
 #include <main.h>
 void uart_com_fsm(UART_HandleTypeDef huart2) {

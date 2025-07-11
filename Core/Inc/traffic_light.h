@@ -1,10 +1,3 @@
-/*
- * traffic_light.h
- *
- *  Created on: Oct 30, 2024
- *      Author: My Laptop
- */
-
 #ifndef INC_TRAFFIC_LIGHT_H_
 #define INC_TRAFFIC_LIGHT_H_
 
@@ -20,4 +13,4 @@ void setallRed();
 void setallGreen();
 void setallAmber();
 void setallOff();
-#endif /* INC_TRAFFIC_LIGHT_H_ */
+#endif 

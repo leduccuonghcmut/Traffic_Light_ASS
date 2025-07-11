@@ -1,10 +1,3 @@
-/*
- * fsm_manual.c
- *
- *  Created on: Oct 30, 2024
- *      Author: My Laptop
- */
-
 #include "fsm_manual.h"
 #include "fsm_automatic.h"
 #include "fsm_settings.h"
